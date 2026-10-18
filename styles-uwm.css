@@ -8,7 +8,7 @@ html {
 }
 
 .site-header {
-    background-color: rgb(246, 255, 234);
+    background-color: rgb(255, 222, 150);
     padding: 20px;
     margin: 10px;
 }
@@ -20,14 +20,28 @@ html {
 .site-main {
     background-color: rgb(98 196 218);
     padding: 20px;
+    margin: 10px;
 }
 
 .article-section {
-    background-color: rgb(255, 222, 150);
+    background-color: rgb(246, 255, 234);
     padding: 10px;
     margin: 8px;
 }
 
 .callout {
     background-color: rgb(250, 133, 90);
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+}
+
+.site-footer {
+    background-color: rgb(201, 54, 56);
+    padding: 10px;
+    margin: 10px;
+}
+
+.adress {
+    border-top: 2px solid black;
 }
